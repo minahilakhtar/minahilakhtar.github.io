@@ -551,7 +551,7 @@ header .navbar ul li a:hover {
         font-size: 50%;
     }
 }
-@media (max-width:400px) {
+@media (max-width:430px) {
    header {
        width: 100vw;
    }
