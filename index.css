@@ -559,9 +559,10 @@ header .navbar ul li a:hover {
        margin: 2rem 3rem;
    }
    .about .row .info{
+       padding-right: 48px;
        text-align: center;
        align-items: center;
-       padding-right: 48px;
+       
    }
    .about .row .counter .box {
        width: 100%;
