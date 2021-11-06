@@ -561,6 +561,7 @@ header .navbar ul li a:hover {
    .about .row .info{
        text-align: center;
        align-items: center;
+       padding-right: 48px;
    }
    .about .row .counter .box {
        width: 100%;
