@@ -558,6 +558,10 @@ header .navbar ul li a:hover {
    .heading {
        margin: 2rem 3rem;
    }
+   .about .row .info{
+       text-align: center;
+       align-items: center;
+   }
    .about .row .counter .box {
        width: 100%;
    }
