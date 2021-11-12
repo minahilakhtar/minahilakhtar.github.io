@@ -321,10 +321,10 @@ header .navbar ul li a:hover {
   /* Modal Content */
   .modal-content {
     position: relative;
-    padding-left: 50px;
+    padding-top: 10px;
+    padding-left: 295px;
+    width: 80%;
     margin: auto;
-    padding: 0;
-    width: 32%;
     max-width: 1200px;
   }
   
