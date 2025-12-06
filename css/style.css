@@ -46,7 +46,9 @@ p{
 /*portfolio height  */
 
 
-/* #gallery{} */
+#gallery{
+    height: 2000px !important;
+}
 /* #section-portfolio{
     height: 100%;
 } */
